@@ -1,4 +1,4 @@
-## Hi there 👋 I am Sachin and I am a data Analyst
+## Hi there 👋 I am Sachin the data Analyst
 🔭 I got an opprotunity to work on Python, Data processing and Reporting app. Since then I started digging into Data Analytics.
 - 🌱 I’m currently learning SQL, Excel and Power BI
 - 📫 How to reach me: https://www.linkedin.com/in/sachin-data-analyst/
