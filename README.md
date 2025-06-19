@@ -1,7 +1,8 @@
 ## Hi there 👋 I am Sachin the data Analyst
-🔭 I got an opprotunity to work on Python, Data processing and Reporting app. Since then I started digging into Data Analytics.
-- 🌱 I’m currently learning SQL, Excel and Power BI
-- 📫 How to reach me: https://www.linkedin.com/in/sachin-data-analyst/
+I got an opprotunity to work on Data analysis and report automation using Python & Athena. 
+Since then I started digging into Data Analytics.
+- I’m currently learning SQL, Excel and Power BI
+- How to reach me: https://www.linkedin.com/in/sachin-data-analyst/
 
 <!--
 **Sachin-Data-Analyst/Sachin-Data-Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
