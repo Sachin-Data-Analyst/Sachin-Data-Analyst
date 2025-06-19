@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Sachin the data Analyst
-I got an opprotunity to work on Data analysis and report automation using Python & Athena. 
+In 2024 I got an opprotunity to work on Data analysis and report automation using Python & Athena. 
 Since then I started digging into Data Analytics.
 - I’m currently learning SQL, Excel and Power BI
 - How to reach me: https://www.linkedin.com/in/sachin-data-analyst/
