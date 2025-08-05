@@ -1,4 +1,4 @@
-## Hi there 👋 I am Sachin the data Analyst
+## Hi there 👋 I am Sachin and I am backend engineer
 In 2024 I got an opprotunity to work on Data analysis and report automation using Python & Athena. 
 Since then I started digging into Data Analytics.
 - I’m currently learning SQL, Excel, Tableau, Python, Pandas
